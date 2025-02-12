@@ -1,6 +1,4 @@
 # Minesweeper
-Minesweeper
-
 Minesweeper is a popular single-player puzzle game that originated in the 1960s and gained significant popularity with the inclusion of the game in the Microsoft Windows operating system.
 The objective of Minesweeper is to clear a rectangular grid of hidden tiles or cells without uncovering any mines. The grid represents a minefield, and each tile can either be empty or contain a hidden mine. The player's task is to reveal all the empty tiles without triggering any mines.
 How to use.
